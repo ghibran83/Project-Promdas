@@ -11,14 +11,14 @@
 ## Permintaan Program 
 > "Buatkan Program sederhana untuk konversi mata uang."  
 ## Penjelasan Program 
-Bahasa pemrograman yang digunakan: C  
-Fitur utama: 
+> Bahasa pemrograman yang digunakan : C  
+> Fitur utama : 
   - Konversi Dolar ke Rupiah
   - Konversi Rupiah ke Dolar
   - Menu Pilihan User
   - Validasi Pilihan
   - Perulangan Program (Repeat Menu)
-Konsep yang digunakan:
+> Konsep yang digunakan :
   - Fungsi
   - Input & Output
   - if else
